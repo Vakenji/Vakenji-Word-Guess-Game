@@ -138,7 +138,7 @@ function hasUserLost() {
 		var audio = new Audio("assets/audio/sad.mp3");
 		audio.play();
 		
-		var messiThinking="<img src=\"assets/Images/miss.gif\" class=\"img-responsive\" alt=\"miss\">";
+		var messiThinking="<img src=\"assets/images/miss.gif\" class=\"img-responsive\" alt=\"miss\">";
 		document.querySelector("#messiThinking").innerHTML = messiThinking;
 		
 		resetGame();
