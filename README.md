@@ -22,7 +22,6 @@ After the user wins/loses the game should automatically choose another word and 
 
 Word Guess Game Bonuses
 
-
 Play a sound or song when the user guesses their word correctly, like in our demo.
 Write some stylish CSS rules to make a design that fits your game's theme.
 
