@@ -1,5 +1,4 @@
 # Word-Guess-Game       
-link to Portfolio https://vakenji.github.io/Vakenji-Word-Guess-Game/
 
 Choose a theme for your game! In the demo, we picked an 80s theme: 80s questions, 80s sound and an 80s aesthetic. You can choose any subject for your theme, though, so be creative!
 Use key events to listen for the letters that your players will type.
